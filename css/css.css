@@ -12,14 +12,14 @@ body
 
 a:link
 {
-	color: #666666;
+	color: #E5E5E5;
 	text-decoration: none;
 	margin-left: 15px;
 }
 
 a:visited
 {
-	color: #666666;
+	color: #E5E5E5;
 }
 
 a:hover
@@ -29,7 +29,7 @@ a:hover
 
 a:active
 {
-	color: #595959;
+	color: #E5E5E5;
 }
 
 .center
