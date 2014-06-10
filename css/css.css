@@ -1,0 +1,66 @@
+body
+{
+	font-family: Source Sans Pro Light;
+	background-color: #F7F7F7;
+	font-size: 22px;
+	text-align: center;
+	margin-left: 0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+a:link
+{
+	color: #666666;
+	text-decoration: none;
+	margin-left: 15px;
+}
+
+a:visited
+{
+	color: #666666;
+}
+
+a:hover
+{
+	color: #008CDC;
+}
+
+a:active
+{
+	color: #595959;
+}
+
+.center
+{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -90px;
+	margin-left: -117px;
+}
+
+.textcenterHome
+{
+	position: fixed;
+	top: 56%;
+	left: 44%;
+	margin-top: -50px;
+}
+
+.textcenterMap
+{
+	position: fixed;
+	top: 56%;
+	left: 52%;
+	margin-top: -50px;
+}
+
+.textcenterAbout
+{
+	position: fixed;
+	top: 56%;
+	left: 48%;
+	margin-top: -50px;
+}
